@@ -1,0 +1,149 @@
+body {
+  background-color: black;
+  /* margin: 0px; */
+  /* padding: 0px; */
+  margin-right: 30px;
+  margin-left: 15px;
+}
+article {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+header {
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-bottom: 0px;
+  width: 100%;
+}
+.header_1 {
+  font-size: 22px;
+  text-decoration: underline;
+  font-weight: bold;
+  color: white;
+  line-height: 24px;
+}
+p.whiteheader {
+  color: white;
+  font-size: 18px;
+}
+p.greyheader {
+  color: grey;
+  font-size: 18px;
+}
+.container {
+  border: none;
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 15px;
+  margin-right: 15px;
+  gap: 30px;
+}
+
+.container_1 {
+  line-height: 24px;
+}
+
+.whitetext {
+  color: white;
+  font-family: Arial;
+  font-size: 24px;
+  font-weight: bold;
+}
+.tahoma {
+  width: 200px;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  font-family: Tahoma;
+  padding: 2px;
+  justify-content: left;
+  font-weight: bold;
+  border: none;
+}
+
+.verdana {
+  background-color: white;
+  border: none;
+  width: 280px;
+  /* height: 200px; */
+  font-family: Verdana;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+p.greytext {
+  color: grey;
+  font-size: 15px;
+}
+p.verdana_1 {
+  font-size: 15px;
+}
+button {
+  background-color: rgb(3, 134, 3);
+  border-radius: 3px;
+  border: none;
+  color: white;
+}
+.container_2 {
+  /* background-color: white; */
+  font-family: Arial;
+  margin-right: 50px;
+}
+
+div .container_2 {
+  font-family: Arial;
+  line-height: 1.3;
+  border: none;
+  margin: 0px;
+  /* margin-left: 50px; */
+  padding: 0px;
+  width: 300px;
+}
+.Arial {
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+}
+.upperspan {
+  background-color: white;
+  color: black;
+  width: 300px;
+  font-size: 18px;
+}
+.upperspan h3 {
+  margin-bottom: 0%;
+  color: black;
+  /* text-decoration: underline; */
+}
+.redtext {
+  color: red;
+  margin-top: 5px;
+  padding-bottom: 15px;
+}
+.lowerspan {
+  background-color: white;
+  color: black;
+  width: 300px;
+  font-size: 18px;
+}
+.lower_1 {
+  background-color: white;
+  color: black;
+}
+.lowerspan p {
+  text-align: center;
+  font-size: 14px;
+}
+a {
+  /* justify-content: center; */
+  text-align: center;
+  margin-left: 100px;
+}
